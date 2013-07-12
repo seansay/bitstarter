@@ -1,5 +1,6 @@
 {
   "name": "sean-startup",
+  "repository": "https://github.com/seansay/bitstarter.git",
   "version": "0.0.1",
   "dependencies": {
     "express": "2.5.x"
